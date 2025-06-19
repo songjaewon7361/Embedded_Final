@@ -30,7 +30,7 @@ We used the official open dataset provided by AI Hub:
 
 This diagram illustrates the internal system process — from capturing camera frames, running the YOLOv11n model for object detection, applying OCR for label recognition, and finally providing real-time audio feedback via TTS.
 
-![System Flow Diagram](./system_flow_.png)
+![System Flow Diagram](./system_flow.png)
 
 ---
 
@@ -38,7 +38,7 @@ This diagram illustrates the internal system process — from capturing camera f
 
 This diagram shows how users interact with the application — from launching the app to receiving classification results through TTS, based on PET bottle detection and label recognition.
 
-![User Flow Diagram](./user_flow_.png)
+![User Flow Diagram](./user_flow.png)
 
 ---
 
