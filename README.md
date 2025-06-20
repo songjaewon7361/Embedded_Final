@@ -44,7 +44,7 @@ This diagram shows how users interact with the application — from launching th
 
 ## 4. YouTube
 
-📺 Project Demo Video: 
+📺 Project Demo Video: https://youtu.be/kiFLfA_8RHk?feature=shared
 
 ---
 
